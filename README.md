@@ -1,3 +1,9 @@
 # loginSystemByrohan
-Basic Login System
-My program uses another library called stdiomask , smptlib.
+
+### Basic Login system that includes
+
+#### Hashing of password
+#### Email verification
+#### Suggestion of password
+
+###### The program uses another libraries stdiomask and smptlib, so do (pip) install them too.
