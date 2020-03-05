@@ -1,4 +1,4 @@
-# loginSystem by Rohan Gupta
+# loginSystem by Me
 
 ### Basic Login system that includes
 
