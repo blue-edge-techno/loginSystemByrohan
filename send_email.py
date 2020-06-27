@@ -8,7 +8,7 @@ def send_mail(toaddr,message,sub):
     try:
         msg = MIMEMultipart()
 
-        fromaddr = "gooogleincoporation@gmail.com"
+        fromaddr = "youremail@example.com"
 
         msg['From']=fromaddr
         msg['To']= toaddr
@@ -20,7 +20,7 @@ def send_mail(toaddr,message,sub):
 
         s.starttls()
 
-        s.login(fromaddr, "maths1729")
+        s.login(fromaddr, "youremailpassword")
 
         text = msg.as_string()
 
@@ -30,6 +30,3 @@ def send_mail(toaddr,message,sub):
 
     except:
         return False
-
-if __name__ == '__main__':
-    print(send_mail("rohangupta1176@gmail.com","This thing works","RESET YOUR PASSWORD"))
