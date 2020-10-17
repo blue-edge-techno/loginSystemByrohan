@@ -1,7 +1,7 @@
 {
   "result": [{
       "id": "etark-blog-1",
-      "bannerimage": "https://etark471938549.files.wordpress.com/2020/05/composition-of-various-modern-electronic-equipment-placed-on-3921712.jpg?w=1200",
+      "bannerimage": "https://raw.githubusercontent.com/blueedgetechno/loginSystemByBlue/master/blogs/charger.jpg",
       "title": "11 Easy Tips to Improve Your Smartphone’s Battery Life",
       "snippet": "Daily life would be impossible for us nowadays without the use of our mobile phones. We usually have to unlock our phones atleast 60+ times a day. A normal person usually unlocks his phone around 107 times a day. And our daily activities result in high drainage of our phone’s battery. To get the maximum",
       "date": "May 15, 2020",
@@ -9,7 +9,7 @@
     },
     {
       "id": "etark-blog-2",
-      "bannerimage": "https://scontent.fixc2-1.fna.fbcdn.net/v/t1.0-9/p960x960/121468352_380806039951616_3419847570895526913_o.jpg?_nc_cat=104&_nc_cb=846ca55b-311e05c7&_nc_sid=8024bb&_nc_ohc=Hsf3RXiRSf0AX_PvlRB&_nc_ht=scontent.fixc2-1.fna&tp=6&oh=9bfec883518897b22408e35940584dff&oe=5FAF197D",
+      "bannerimage": "https://raw.githubusercontent.com/blueedgetechno/loginSystemByBlue/master/blogs/mirzapur.jpg",
       "title": "Choose your allegiance carefully in this Mirzapur of smartphone servicing",
       "snippet": "Yes, you heard it right. We are talking about justice here. You must be wondering how a smartphone servicing platform like us has anything to do with justice. Well, allow us to enlighten you on this. Smartphone users choose mainly four ways to get their phone fixed :",
       "date": "Oct 15, 2020",
@@ -17,11 +17,19 @@
     },
     {
       "id": "etark-blog-3",
-      "bannerimage": "./static/images/blogs/ott2.jpg",
+      "bannerimage": "https://raw.githubusercontent.com/blueedgetechno/loginSystemByBlue/master/blogs/ott2.jpg",
       "title": "Enjoy ETark with Netflix India, Hotstar, Amazon Prime Video or Cricbuzz",
       "snippet": "It's the season of OTT shows and sports. So before you sink in to the world of entertainment on Netflix India, Hotstar, Amazon Prime Video or Cricbuzz, you must ensure that your smartphone has a secured servicing partner. Now that you have chosen your allegiance carefully in this Mirzapur",
       "date": "Oct 15, 2020",
       "content": "It's the season of OTT shows and sports. So before you sink in to the world of entertainment on Netflix India, Hotstar, Amazon Prime Video or Cricbuzz, you must ensure that your smartphone has a secured servicing partner. Now that you have chosen your allegiance carefully in this Mirzapur of Smartphone servicing with us, let us explain how ETark helps you with your smartphone servicing.\n\r\n\r\n\r**Pickup and Delivery service** | _For Mobile Repairing / Mobile Servicing / Parts Replacement_\n\r\n\rIt's not just a pickup and delivery service. It's the entire servicing experience brought together in a single platform. Through our process innovations, we help service centers get your phone fixed in the shortest time and safely delivered back to you without compromising on quality.\n\r\n\r<p align='center'>\n\r<img src='https://cdn4.iconfinder.com/data/icons/contact-us-19/48/91-512.png' width='24'>\n\r&nbsp; <a>Our video coming soon</a>\n\r</p>\n\r\n\r**Neo Plan** | _For filing your smartphone complaint in a consumer forum/ court_\n\r\n\rIn the event you wish to take your complaint in a consumer forum/ court which is a free online service by the Indian govt. and doesn't demand you to appear before any court or go through any legal matter, however in order for you to get some resolution or some compensation from the process, you may have to wait for a long duration of about 2 months or beyond, it is important for you to know beforehand where your case stands and how likely you are to win.\n\r\n\rThis is precisely where we come in. Through ETark's revolutionary automated complaint analysis tool under this plan, you would be able to instantly get an estimated value of :\n\r\n\r1. Your chances of winning had your complaint been filed in a consumer forum/ court\n\r\n\r2. Your expected compensation had the case been won in a consumer forum/ court\n\r"
+    },
+    {
+      "id": "etark-blog-4",
+      "bannerimage": "https://raw.githubusercontent.com/blueedgetechno/loginSystemByBlue/master/blogs/neoplan.jpg",
+      "title": "Unleash true power of Consumer Forum with ETark",
+      "snippet": "Did you know that you as a mobile user can get your phone complaint resolved by filing your complaint in a consumer forum / court in India. It's a free service by the Govt. of India to protect the rights of the consumers of India. It could help resolve your grievance against the smartphone seller ",
+      "date": "Oct 17, 2020",
+      "content": "**Neo Plan | Our invention** : An advanced Smartphone Complaint Analysis tool\n\r\n\rDid you know that you as a mobile user can get your phone complaint resolved by filing your complaint in a consumer forum / court in India. It's a free service by the Govt. of India to protect the rights of the consumers of India. It could help resolve your grievance against the smartphone seller (Ecommerce or Offline retailer) or the smartphone manufacturer with a suitable compensation granted in the end.\n\r\n\rDon't be afraid, these aren't the usual civil courts, in fact your complaint can be filed online at your own convenience and you don't need to physically visit anywhere or face any disruption in your daily life/ work due to this.\n\r\n\rOnce you register your complaint there which could also be done even over call via a consumer helpline provided on the portal  apart from online or physical ways of doing so, they would be updating you on the status on your case from time to time. Check out this link to [learn more](https://consumerhelpline.gov.in)\n\r\n\rHowever there's a caveat to the same, statistically speaking it might take a minimum of about 2 months or even beyond to get some resolution from the Consumer forum. So a very important question is it worth waiting that long? The answer to that question is depends on how your case might turn out to be and what would you get out of the process. This is where we step in. We aren't magicians who can predict the future but as far as predictions is concerned, it's our forte and we do so using advanced AI tools.\n\r\n\rThrough our Neo Plan, we'll let you know:\n\r\n\r- Your chances of winning had your complaint been filed in a consumer forum / court\n\r\n\r- Your Expected Compensation had the complaint been won in a consumer forum / court\n\r\n\rAll this instantly so that before you decide to file your complaint in a consumer forum / court, you get some idea of what result you are likely to get.\n\r"
     }
   ]
 }
