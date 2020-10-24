@@ -3,25 +3,52 @@
     "service": "https://www.samsung.com/in/support/in-out-warranty-repair-charges/",
     "parts": "https://www.samsung.com/in/support/in-mobile-phone-part-cost/"
   },
+  
   "Xiaomi (Mi)": {
     "parts": "https://www.mi.com/in/service/sparepartsprice/"
   },
+  
   "Apple": {
     "service": "https://support.apple.com/en-in/iphone/repair/service"
   },
+  
   "Lenovo": {
     "parts": "https://support.lenovo.com/in/en/partslookup"
   },
+  
   "Motorola": {
     "parts": "https://support.motorola.com/in/en/solution/MS133816"
   },
+  
   "OnePlus": {
     "service": "https://www.oneplus.in/support/repair-pricing/details?code=28"
   },
+  
   "Vivo": {
     "parts": "https://www.vivo.com/in/support/accessory"
   },
+  
   "Oppo": {
     "parts": "https://support.oppo.com/in/spare-parts-price"
+  },
+  
+  "Asus": {
+    "parts": "https://www.asus.com/in/support/article/1004/"
+  },
+
+  "Huawei": {
+    "parts": "https://consumer.huawei.com/in/support/sparepart-price/"
+  },
+
+  "Sony": {
+    "service": "https://www.sony.co.in/microsite/warranty-repair/warranty-info/#service-charge"
+  },
+
+  "Lava": {
+    "parts": "https://www.lavamobiles.com/support"
+  },
+
+  "Xolo": {
+    "parts": "http://www.xolo.in/spare-parts"
   }
 }
